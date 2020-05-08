@@ -50,7 +50,7 @@ export const PriceContainer = styled.View`
 export const ProductPrice = styled.Text`
   font-weight: bold;
   font-size: 16px;
-  color: #e83f5b;
+  color: #777da7;
 `;
 
 export const ProductButton = styled.TouchableOpacity``;
